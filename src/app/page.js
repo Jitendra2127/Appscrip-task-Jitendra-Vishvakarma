@@ -21,6 +21,7 @@ const page = async() => {
   const data=await dataFetch();
   return (
     <main className="">
+      <h1 className="text-5xl">jitendra</h1>
       
         
        <Navbar navbar_data={navbar_data}/>
