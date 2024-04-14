@@ -4,13 +4,14 @@ import Image from 'next/image';
 import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { FaGreaterThan } from "react-icons/fa6";
 import { FaDotCircle } from 'react-icons/fa';
-import G_Pay from '../../public/Footer_Image/G_Pay.png';
-import MasterCard from '../../public/Footer_Image/MasterCard.png';
-import Pay_Pal from '../../public/Footer_Image/Pay_Pal.png';
-import Amex from '../../public/Footer_Image/Amex.png';
-import i_Pay from '../../public/Footer_Image/i_Pay.png';
-import pay from '../../public/Footer_Image/pay.png';
-import usa from '../../public/Footer_Image/usa.png';
+// import G_Pay from '../../public/Footer_Image/G_Pay.png';
+import G_Pay from '../../../public/Footer_Image/G_Pay.png';
+import MasterCard from '../../../public/Footer_Image/MasterCard.png';
+import Pay_Pal from '../../../public/Footer_Image/Pay_Pal.png';
+import Amex from '../../../public/Footer_Image/Amex.png';
+import i_Pay from '../../../public/Footer_Image/i_Pay.png';
+import pay from '../../../public/Footer_Image/pay.png';
+import usa from '../../../public/Footer_Image/usa.png';
 
 const FooterSection = () => {
     const Footer_data = [

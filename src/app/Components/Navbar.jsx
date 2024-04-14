@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react';
 import Image from 'next/image';
-import Logo from "../../public/header/logo.jpg";
+import Logo from "../../../public/header/logo.jpg";
 import { RxCross2 } from "react-icons/rx";
 
 import { BsBag } from "react-icons/bs";
